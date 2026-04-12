@@ -13,7 +13,7 @@ My work focuses on machine learning, numerical methods, and scientific computing
 - Python (PyTorch, NumPy, SciPy, pandas, etc.)
 - C/C++
 - Fortran, MATLAB
-- Docker, Git
+- Docker, Git, Linux/Unix
 
 ### Projects
 - Scientific ML Models – CNN-based forecasting and generative models (VAE, diffusion)
