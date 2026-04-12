@@ -1,8 +1,7 @@
 ## Jonathan Guité
 M.S. in Scientific Computing & Applied Mathematics (UCSC, 2026)
 
-I work on machine learning, numerical methods, and scientific computing, with a focus on
-modeling and simulation of physical systems and spatiotemporal data.
+My work focuses on machine learning, numerical methods, and scientific computing, with experience building models and computational solutions for complex systems.
 
 ### Interests
 - Machine Learning (deep learning, scientific ML)
@@ -11,19 +10,20 @@ modeling and simulation of physical systems and spatiotemporal data.
 - Data-driven modeling
 
 ### Tech Stack
-- Python (PyTorch, NumPy, SciPy, pandas)
+- Python (PyTorch, NumPy, SciPy, pandas, etc.)
 - C/C++
-- MATLAB
+- Fortran, MATLAB
 - Docker, Git
 
 ### Projects
 - Scientific ML Models – CNN-based forecasting and generative models (VAE, diffusion)
 - CFD Solver – Finite-volume methods for 1D Euler equations
+- Numerical methods research - M.S. thesis research on iterative Poisson solvers (Jacobi, SOR, multigrid); hyperbolic & parabolic pseudo-time methods in 1D and 2D
 - Stock Analysis App – Flask, React, PostgreSQL, Docker
 
 ### Contact
 - Email: jjguite@icloud.com
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://linkedin.com/in/jjguite
 
 <!---
 jjguite/jjguite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
