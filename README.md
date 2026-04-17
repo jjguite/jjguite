@@ -22,7 +22,6 @@ My work focuses on machine learning, numerical methods, and scientific computing
 - Stock Analysis App – Flask, React, PostgreSQL, Docker
 
 ### Contact
-- Email: jjguite@icloud.com
 - LinkedIn: https://linkedin.com/in/jjguite
 
 <!---
