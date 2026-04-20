@@ -1,5 +1,5 @@
 ## Jonathan Guité
-M.S. in Scientific Computing & Applied Mathematics (UCSC, June 2026)
+M.S. in Scientific Computing & Applied Mathematics (UCSC, Summer 2026)
 B.S. in Computer Science (UCSC, 2025)
 
 My work focuses on machine learning, scientific computing, and software engineering, with experience building models and computational solutions for complex systems.
