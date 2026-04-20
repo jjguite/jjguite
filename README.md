@@ -1,7 +1,7 @@
 ## Jonathan Guité
 M.S. in Scientific Computing & Applied Mathematics (UCSC, 2026)
 
-My work focuses on machine learning, numerical methods, and scientific computing, with experience building models and computational solutions for complex systems.
+My work focuses on machine learning, scientific computing, and software engineering, with experience building models and computational solutions for complex systems.
 
 ### Interests
 - Machine Learning (deep learning, scientific ML)
