@@ -14,7 +14,7 @@ My work focuses on machine learning, scientific computing, and software engineer
 
 ### Tech Stack
 - Python (PyTorch, NumPy, SciPy, pandas, etc.)
-- C/C++
+- C/C++, Java, Javascript/Typescript
 - Fortran, MATLAB
 - Docker, Git, Linux/Unix
 
